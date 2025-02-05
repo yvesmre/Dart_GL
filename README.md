@@ -1,7 +1,7 @@
 A bare-bones Dart web app.
 
-Uses [`package:web`](https://pub.dev/packages/web)
-to interop with JS and the DOM.
+~~Uses [`package:web`](https://pub.dev/packages/web)
+to interop with JS and the DOM.~~
 
 ## Running and building
 
